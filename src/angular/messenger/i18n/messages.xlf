@@ -163,8 +163,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="onlineAgainMsg" datatype="html">
-        <source>You are online again and your token is exired. To reconnect please logout and login again.</source>
-        <target>You are online again and your token is exired. To reconnect please logout and login again.</target>
+        <source>You are online again and your token is expired. To reconnect please logout and login again.</source>
+        <target>You are online again and your token is expired. To reconnect please logout and login again.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">17</context>

@@ -8,4 +8,8 @@
 		<from>^\/en\/[a-zA-Z_0-9\/]*$</from>
 		<to>/en/index.html</to>
 	</rule>
+	<rule>
+		<from>^\/pl\/[a-zA-Z_0-9\/]*$</from>
+		<to>/pl/index.html</to>
+	</rule>
 </urlrewrite>
